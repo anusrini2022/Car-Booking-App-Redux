@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    width:100vw;
+    height:100vh;
+}
+.customer-container{
+  background-color: white;
+  width:400px;
+  height:400px;
+  border-radius:10px;
+  padding:20px;
+  margin:50px auto;
+  color:black;
+
+}
+.mybooking-container{
+    display: flex;
+    width:100vw;
+    height:100vh;
+    gap:10px;
+   
+}
+.mybooking-container h3{
+    order:2;
+    flex:1;
+    margin-left:-300px;
+    color:white;
+    font-weight:400;
+}
+.mybookings{
+ background-color: white;
+  width:400px;
+  height:300px;
+  border-radius:10px;
+  padding:20px;
+  margin:50px auto;
+  color:black;
+  order:1;
+
+}
+h1{
+    text-align:center;
+    font-weight:400;
+}

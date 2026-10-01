@@ -1,0 +1,48 @@
+ .card {
+     flex: 1;
+     background-color: #e3f2fd;
+     border-radius: 12px, ;
+     min-width: 220px;
+     border: 1px solid #ddd, ;
+    padding: 20px;
+     border-radius: 12px;
+     margin-top: 20px;
+
+ }
+
+ section {
+     margin-bottom: 40px;
+ }
+
+ .box {
+     width: 50%;
+     margin: 10% auto;
+     padding: 100px;
+     position: relative;
+
+ }
+
+ .box h1 {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+   
+
+
+ }
+
+ h1 {
+     color: black;
+     text-align: center;
+ }
+ .payment{
+     width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    box-sizing: border-box;
+}
+ 
